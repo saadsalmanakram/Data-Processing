@@ -1,0 +1,1 @@
+A distributed computing framework designed for big data processing, with capabilities for large-scale data analysis.
